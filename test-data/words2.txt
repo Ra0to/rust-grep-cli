@@ -1,0 +1,9 @@
+this is file words2.txt
+this contains other lines
+may be a bit longer lines
+docker is a container
+k8 is orchestrating system for containers
+i'm writing code in Visual Studio Code
+Microsoft WORD doing things
+Am i right?
+Wow some symbols
